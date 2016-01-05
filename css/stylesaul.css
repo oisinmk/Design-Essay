@@ -1,0 +1,1264 @@
+
+    *
+	{
+	Padding: 0;
+Margin: 0;
+	Font-size:100%;
+	Line-height:1em;
+	}
+ 
+
+body{
+    
+   
+
+    
+    
+    
+         width:100%;
+         
+         
+         font-size: 85%;
+         
+            
+         
+         margin:auto;
+   
+    
+    
+    margin-top: 0em;
+         color: #ffffff;
+         
+    
+    line-height: 1.5em;
+       
+  
+   background: url(../images/grey.jpg);
+
+    
+
+         }
+
+
+
+
+
+
+
+
+
+/*----------------------images-----------------------*/
+
+/*----------------------SECTION 1-----------------------*/
+    
+.section-1
+{
+    background: url(../images/redy.jpg);
+ 
+    
+    margin-bottom: 5em;
+ height:1000px;
+   
+}
+
+
+
+.divintro
+{
+    
+  
+    
+    
+    align-content: right;
+   
+    height: 1200px;
+    
+    margin-top: 8em;
+   
+    background-repeat: no-repeat;
+    
+    
+}
+    
+#introduction
+{
+    font-family: 'Lobster', Georgia, Times, serif;
+ font-size: 70px;
+ line-height: 100px;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    align-content: center;
+    padding-left: 35%;
+    padding-right: 25%;
+    padding-bottom: 8em;
+    color: whitesmoke;
+    font-style: oblique;
+    
+    
+    
+    
+}
+
+
+#army
+{
+    
+  margin-top: 48.5em;
+    
+    
+}
+
+#titleseq
+{
+      font-family: 'Lobster', Georgia, Times, serif;
+ font-size: 70px;
+ line-height: 100px;
+    
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: .5em;
+    align-content: center;
+    padding-left: 35%;
+    padding-right: 25%;
+    padding-bottom: 7em;
+    color: whitesmoke;
+    font-style: oblique;
+    
+    
+    
+    
+}
+
+    #landy
+{
+    align-content: center;
+ margin-top: 38em;   
+}
+
+
+
+
+.section2
+    
+
+{height: 1000px;
+    width: auto;}
+
+
+#quota
+{
+ display: block;
+    margin-left: auto;
+    margin-right: auto;
+        
+
+}
+.section3
+
+{
+    height: 1000px;
+    width:auto;
+}
+
+
+
+
+
+/*----------------------images---------------------
+
+/*----------------------SECTION 1-----------------------*/
+     
+
+
+
+
+
+
+
+#scors
+{
+        font-family: 'Lobster', Georgia, Times, serif;
+ font-size: 70px;
+ line-height: 100px;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -1em;
+    align-content: center;
+    padding-left: 35%;
+    padding-right: 25%;
+    padding-bottom: 5em;
+    color: whitesmoke;
+    font-style: oblique;
+}
+
+    
+
+.section2
+{
+    height:1000px;
+    
+}
+
+
+
+
+
+/*----------------------BLOCKQUOTES-----------------------*/
+
+
+.bq1
+
+{
+   
+    font-size: 3em;
+    line-height: 1.5em;
+    
+    color:white;
+    font-style: italic;
+    font-family: "baskerville";
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    margin-top: 2em;
+    background: url(../images/redy.jpg);
+    width:100%;
+    background-repeat: repeat-x;
+  height: 1000px;
+    position: absolute;
+
+}
+
+
+
+#bqstart
+{
+    
+  
+   
+  
+  margin-top: 6em;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25em;
+
+}
+
+
+
+
+blockquote cite
+{
+    font-size: 0.75em;
+    
+
+
+
+
+}
+
+.anchor {
+text-transform:uppercase;
+font-size:.2em;
+}
+
+
+/*typography -----------------------------LINKS-------------------------*/
+
+
+
+a {
+ color:#c06;
+text-decoration: none;
+    
+    
+    
+}
+
+
+
+/*----------------------NAV-----------------------*/
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+/* ===========================FOOTER====================*/
+    
+    footer {
+        line-height: 1.6em;
+        
+    
+        padding-bottom: 1em;
+        font-size: 85%;
+        
+    }
+    
+
+
+/*=======================================================//*/
+    
+
+
+
+
+
+.contact
+
+
+{
+    padding-top: 2em;
+    margin:auto;
+    text-align:center;
+}
+
+
+
+    
+    
+
+
+
+
+
+
+        .caption 
+
+
+{
+    margin-bottom: 1.5em;
+    text-transform: uppercase;
+    font-size:.9em;
+}
+
+
+/*=======================INTRO================*/
+
+.intro
+{
+    font-family: "helvetica";
+    font-size:1em;
+  
+  
+    
+    
+}
+#intro123
+{font-family: "hitchcock";
+    font-size: 2.5em;
+    
+    margin-top: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5em;
+    
+    
+   
+}
+.section4
+
+{
+    
+    
+}
+
+
+#sequence
+{font-family: "hitchcock";
+    font-size: 2.5em;
+    margin-top: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5em;
+    
+   
+}
+
+
+
+#saulyboy
+
+{
+  margin-top: 34em;  
+    
+    
+}
+#p1
+{
+    
+    
+    margin-top: 10em;
+font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 17px;
+ line-height: 27px;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    padding-left: 25%;
+    padding-right: 25%;
+   
+   text-align: left;
+    
+    font-weight: lighter;
+    
+    
+}
+
+
+#basyy
+{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+  padding-left: 32%;
+    padding-right: 25%;
+}
+#bqt
+{
+     margin-top: 36em;
+     font-family: 'baskerville';
+    font-size: 2em;
+    font-style: italic;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width: 50%;
+    text-align: left;
+    padding-top: 1em;
+   padding-left: 25%;
+    padding-right: 25%;
+    font-weight: lighter;
+  
+}
+
+#p2
+{
+    font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 17px;
+ line-height: 27px;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+   width: 50%;
+    margin-top: 17em;
+    padding-left: 25%;
+    padding-right: 25%;
+    text-align: left;
+    font-weight: lighter;
+    
+    
+    
+}
+
+
+#p3
+
+
+{
+    font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 17px;
+ line-height: 27px;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+  width: 50%;
+   margin-top: 21em;
+    padding-left: 25%;
+    padding-right: 25%;
+    text-align: 
+    left;
+    font-weight: lighter;
+    
+    
+    
+}
+    
+.title
+
+{
+   margin-left: auto;
+    margin-right: auto;
+    
+    width:auto;
+   
+    
+    height: 1200px;
+    line-height: 3em;
+    background: url(../images/redy.jpg); 
+    background-repeat: repeat-x;
+     align-items: center;
+  justify-content: center;
+
+         
+
+    
+    
+    
+}
+   
+
+
+
+
+
+
+
+
+
+
+#p5
+
+{
+    
+      margin-top: 10em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 17px;
+ line-height: 27px;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    padding-left: 25%;
+    padding-right: 25%;
+   
+   text-align: left;
+    
+    font-weight: lighter;
+    
+    
+    
+}
+
+ #p6
+{
+    
+     margin-top: 17em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 17px;
+ line-height: 27px;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    padding-left: 25%;
+    padding-right: 25%;
+   
+   text-align: left;
+    
+    font-weight: lighter;
+   
+}
+
+#p7
+{
+    
+     margin-top: 24em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 17px;
+ line-height: 27px;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    padding-left: 25%;
+    padding-right: 25%;
+   text-align: left;
+    
+    font-weight: lighter;
+    
+  
+    
+    
+}
+
+#p8
+{
+    
+     margin-top: 31em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 17px;
+ line-height: 27px;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    padding-left: 25%;
+    padding-right: 25%;
+   text-align: left;
+    
+    font-weight: lighter;
+    
+    
+    
+}
+
+.bass
+{
+margin-left: auto;
+    margin-right: auto;
+    
+    width:auto;
+    margin-top: 12em;
+    margin-bottom: 8em;
+    height: 2600px;
+    line-height: 3em;
+    
+
+
+
+}
+
+
+
+
+#p9
+    
+ {
+     margin-top: 5em;
+ ffont-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 17px;
+ line-height: 27px;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    padding-left: 25%;
+    padding-right: 25%;
+   text-align: left;
+    
+    font-weight: lighter;
+    
+    
+    
+}
+
+
+
+
+    #p10
+{
+    margin-top: 11em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 17px;
+ line-height: 27px;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    padding-left: 25%;
+    padding-right: 25%;
+   text-align: left;
+    
+    font-weight: lighter;
+    
+}
+
+
+#bq4
+{
+    margin-top: 13em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 17px;
+ line-height: 27px;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    padding-left: 25%;
+    padding-right: 25%;
+   text-align: left;
+    
+    font-weight: lighter;
+}
+
+
+
+
+#p12
+{
+    margin-top: 19em;
+font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 17px;
+ line-height: 27px;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    padding-left: 25%;
+    padding-right: 25%;
+   text-align: left;
+    
+    font-weight: lighter;
+}
+
+#p13
+{
+    margin-top: 25em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 17px;
+ line-height: 27px;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    padding-left: 25%;
+    padding-right: 25%;
+   text-align: left;
+    
+    font-weight: lighter;
+}
+
+#good
+{
+    
+
+    align-content: center;
+ margin-top: 50em;   
+    padding-left: 25%;
+    padding-right: 25%;
+    
+}
+#p14
+{
+    margin-top: 5em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 17px;
+ line-height: 27px;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    padding-left: 25%;
+    padding-right: 25%;
+   text-align: left;
+    
+    font-weight: lighter;
+}
+
+#p15
+{margin-top: 12em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 17px;
+ line-height: 27px;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    padding-left: 25%;
+    padding-right: 25%;
+   text-align: left;
+    
+    font-weight: lighter;
+}
+
+#p16
+{margin-top: 16em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 17px;
+ line-height: 27px;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    padding-left: 25%;
+    padding-right: 25%;
+   text-align: left;
+    
+    font-weight: lighter;
+}
+
+#p17
+{margin-top: 21em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 17px;
+ line-height: 27px;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    padding-left: 25%;
+    padding-right: 25%;
+   text-align: left;
+    
+    font-weight: lighter;}
+
+#p18
+{margin-top: 28em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 17px;
+ line-height: 27px;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    padding-left: 25%;
+    padding-right: 25%;
+   text-align: left;
+    
+    font-weight: lighter;
+}
+
+#catch
+{
+    align-content: center;
+ margin-top: 48em;   
+    padding-left: 25%;
+    padding-right: 25%;
+}
+#p180
+{margin-top: 6em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 17px;
+ line-height: 27px;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    padding-left: 25%;
+    padding-right: 25%;
+   text-align: left;
+    
+    font-weight: lighter;
+}
+
+#p19
+{margin-top: 15em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 17px;
+ line-height: 27px;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    padding-left: 25%;
+    padding-right: 25%;
+   text-align: left;
+    
+    font-weight: lighter;
+}
+
+
+#logoo
+{
+    
+    font-family: 'Lobster', Georgia, Times, serif;
+ font-size: 70px;
+ line-height: 100px;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    align-content: center;
+    padding-left: 35%;
+    padding-right: 25%;
+    padding-bottom: 5em;
+    color: whitesmoke;
+    font-style: oblique;
+    
+    
+    
+}
+#p20
+{margin-top: 15em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 17px;
+ line-height: 27px;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    padding-left: 25%;
+    padding-right: 25%;
+   text-align: left;
+    
+    font-weight: lighter;
+}
+#bq5
+{
+margin-top: 20em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 17px;
+ line-height: 27px;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    padding-left: 25%;
+    padding-right: 25%;
+   text-align: left;
+    
+    font-weight: lighter;
+}
+
+
+#p21
+{font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 17px;
+ line-height: 27px;
+    margin-top: 24em;
+      position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+   line-height: 1.1em;
+   width:45%;
+    padding-left: 25%;
+    padding-right: 25%;
+   margin-bottom: 1em;
+   text-align: left;
+    font-weight: lighter;
+}
+
+#p22
+{margin-top: 28em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 17px;
+ line-height: 27px;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    padding-left: 25%;
+    padding-right: 25%;
+   text-align: left;
+    
+    font-weight: lighter;
+}
+#logosaul
+{
+    
+    
+ align-content: center;
+ margin-top: 50em;   
+    padding-left: 25%;
+    padding-right: 25%;   
+    
+}
+
+#bqfinal
+
+{
+    
+    
+ margin-top: 4em;
+     font-family: 'baskerville';
+    font-size: 3em;
+    font-style: italic;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width: 50%;
+    text-align: left;
+   
+   padding-left: 25%;
+    padding-right: 25%;
+    font-weight: lighter;
+    
+}
+.logo
+{
+
+    display: block;
+    
+    margin-top: 8em;
+    margin-bottom: 8em;
+    height: 1900px;
+    line-height: 1.6em;
+    
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+   
+    background: url(../images/redy.jpg);
+    width:100%;
+    background-repeat: repeat-x;
+  
+    position: absolute;
+
+}
+#end
+{    
+ align-content: center;
+ margin-top: 70em;   
+    padding-left: 25%;
+    padding-right: 25%;  
+    
+    
+    
+}
+
+#footer1
+
+{
+    margin-top: 50em;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 17px;
+}
+#footer2
+{
+      font-family: 'Lobster', Georgia, Times, serif;
+ font-size: 3em;
+ line-height: 3em;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -3.5em;
+    align-content: center;
+    padding-left: 16%;
+    padding-right: 25%;
+    padding-bottom: 5em;
+    color: whitesmoke;
+    font-style: oblique;
+    
+    
+}
+.references
+{
+    height: auto;
+    width: auto;
+    margin-top: 2em;
+    
+    
+    
+}
+
+#bqr1
+{
+     margin-top: 3em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 10px;
+ line-height: 17px;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    
+   text-align: left;
+    
+    font-weight: lighter; 
+}
+#bqr2
+{
+    margin-top: 6em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 10px;
+ line-height: 17px;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    
+   text-align: left;
+    
+    font-weight: lighter;   
+    
+}
+
+#bqr3
+{
+  margin-top: 9em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 10px;
+ line-height: 17px;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+   
+   text-align: left;
+    
+    font-weight: lighter;     
+    
+    
+    
+}
+
+
+#bqr4
+{
+    
+    margin-top: 12em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 10px;
+ line-height: 17px;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    
+   text-align: left;
+    
+    font-weight: lighter;   
+    
+}
+
+
+#bqr5
+{
+    
+ margin-top: 15em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 10px;
+ line-height: 17px;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    
+   text-align: left;
+    
+    font-weight: lighter;      
+}
+
+
+
+
+#bqr6
+{
+    
+ margin-top: 18em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 10px;
+ line-height: 17;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+   
+   text-align: left;
+    
+    font-weight: lighter;      
+    
+}
+
+#bqr7
+{margin-top: 21em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 10px;
+ line-height: 17;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+   
+   text-align: left;
+    
+    font-weight: lighter;   }
+
+#bqr8
+{
+    margin-top: 24em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 10px;
+ line-height: 17;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    
+   text-align: left;
+    
+    font-weight: lighter;   
+}
+
+#bqr9
+{margin-top: 27em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 10px;
+ line-height: 17;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    
+   text-align: left;
+    
+    font-weight: lighter;   }
+
+#bqr10
+{margin-top: 30em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 10px;
+ line-height: 17;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+    
+   text-align: left;
+    
+    font-weight: lighter;   }
+
+#bqr11{
+    margin-top: 33em;
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 10px;
+ line-height: 17;
+    position: absolute;
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+  
+   text-align: left;
+    
+    font-weight: lighter;   
+border-bottom: 2px;}
+/*-------------------phone--------------------------*/
+
+@media (max-width: 30em) {
+
+Body {
+Margin: auto 0;
+Font-size: 110%;
+}
+Article {
+Width: 90%;
+}
+H1{font-size: 2.9em;}
+
+Blockquote {margin: 0;
+Padding: 0;
+Line-height:1.5em}
+Hgroup h2 {font-size:1.5em;
+Padding-top: 0.5em}
+}
+
+@media (max-width:48em)
+{
+Body{
+
+
+}
+    
+
+    
+    @media only screen and (min-width: 1440px) {
+    /* styles for MacBook Pro-sized screens and larger */
+}
+    
+    @media only screen and (min-width: 1200px) {
+    /* styles for wide screens */
+}
+    
+    @media only screen and (max-width: 320px) {
+    /* styles for narrow screens */
+}
+    
+
