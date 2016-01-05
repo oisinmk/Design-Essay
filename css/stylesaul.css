@@ -82,7 +82,7 @@ body{
     
 #introduction
 {
-    font-family: 'Lobster', Georgia, Times, serif;
+  font-family: 'Lobster Two', cursive;
  font-size: 70px;
  line-height: 100px;
     position: absolute;
@@ -112,7 +112,7 @@ body{
 
 #titleseq
 {
-      font-family: 'Lobster', Georgia, Times, serif;
+      font-family: 'Lobster Two', cursive;
  font-size: 70px;
  line-height: 100px;
     
@@ -180,7 +180,7 @@ body{
 
 #scors
 {
-        font-family: 'Lobster', Georgia, Times, serif;
+font-family: 'Lobster Two', cursive;
  font-size: 70px;
  line-height: 100px;
     position: absolute;
@@ -856,7 +856,7 @@ font-family: 'Cabin', Helvetica, Arial, sans-serif;
 #logoo
 {
     
-    font-family: 'Lobster', Georgia, Times, serif;
+    font-family: 'Lobster Two', cursive;
  font-size: 70px;
  line-height: 100px;
     position: absolute;
@@ -1013,7 +1013,7 @@ margin-top: 20em;
 }
 #footer2
 {
-      font-family: 'Lobster', Georgia, Times, serif;
+      font-family: 'Lobster Two', cursive;
  font-size: 3em;
  line-height: 3em;
     position: absolute;
