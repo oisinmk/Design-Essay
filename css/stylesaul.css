@@ -40,7 +40,10 @@ body{
          }
 
 
-
+@font-face {
+    font-family: "lobster";
+    src: url(../fonts/lobster1.4.otf);
+}
 
 
 
